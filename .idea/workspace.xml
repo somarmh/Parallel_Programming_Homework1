@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cafcafd7-4f15-42a0-b7f6-3b1bb05367bd" name="Changes" comment="The first question added">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/FibonacciTest.java" afterDir="false" />
+    <list default="true" id="cafcafd7-4f15-42a0-b7f6-3b1bb05367bd" name="Changes" comment="Added the solution to the third question">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -132,7 +130,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678394809896</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added the solution to the third question">
+      <created>1678403843592</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1678403843593</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -152,6 +157,7 @@
     </ignored-roots>
     <MESSAGE value="My first commit" />
     <MESSAGE value="The first question added" />
-    <option name="LAST_COMMIT_MESSAGE" value="The first question added" />
+    <MESSAGE value="Added the solution to the third question" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added the solution to the third question" />
   </component>
 </project>

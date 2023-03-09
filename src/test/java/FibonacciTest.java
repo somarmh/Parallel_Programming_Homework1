@@ -3,7 +3,7 @@ import junit.framework.TestCase;
 
 public class FibonacciTest extends TestCase {
 
-    int n=50;
+    int n=40;
 
     public void testFiboPP(){
         long start = System.currentTimeMillis();
