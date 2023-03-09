@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cafcafd7-4f15-42a0-b7f6-3b1bb05367bd" name="Changes" comment="My first commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/NumberCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/NumberCountTest.java" afterDir="false" />
+    <list default="true" id="cafcafd7-4f15-42a0-b7f6-3b1bb05367bd" name="Changes" comment="The first question added">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/FibonacciTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,22 +48,32 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.NumberCountTest.testArrayCountStreamPar">
-    <configuration name="NumberCountTest.testArrayCountPP" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.FibonacciTest.testFiboPP">
+    <configuration name="FibonacciTest.testFiboPP" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Homework1" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="NumberCountTest" />
-      <option name="METHOD_NAME" value="testArrayCountPP" />
+      <option name="MAIN_CLASS_NAME" value="FibonacciTest" />
+      <option name="METHOD_NAME" value="testFiboPP" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberCountTest.testArrayCountSeq" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FibonacciTest.testFiboSeq" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Homework1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FibonacciTest" />
+      <option name="METHOD_NAME" value="testFiboSeq" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberCountTest.testArrayCountPP" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Homework1" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="NumberCountTest" />
-      <option name="METHOD_NAME" value="testArrayCountSeq" />
+      <option name="METHOD_NAME" value="testArrayCountPP" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -91,10 +101,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.FibonacciTest.testFiboPP" />
+        <item itemvalue="JUnit.FibonacciTest.testFiboSeq" />
         <item itemvalue="JUnit.NumberCountTest.testArrayCountStreamPar" />
         <item itemvalue="JUnit.NumberCountTest.testArrayCountStreamSeq" />
         <item itemvalue="JUnit.NumberCountTest.testArrayCountPP" />
-        <item itemvalue="JUnit.NumberCountTest.testArrayCountSeq" />
       </list>
     </recent_temporary>
   </component>
@@ -114,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678315970089</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="The first question added">
+      <created>1678394809896</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678394809896</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -133,6 +151,7 @@
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
     <MESSAGE value="My first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="My first commit" />
+    <MESSAGE value="The first question added" />
+    <option name="LAST_COMMIT_MESSAGE" value="The first question added" />
   </component>
 </project>
